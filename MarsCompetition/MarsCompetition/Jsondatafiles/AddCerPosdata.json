@@ -1,0 +1,29 @@
+﻿[
+  {
+    "certificate": "Specflow",
+    "certifiedFrom": "Nova Software",
+    "year": 2007
+  },
+
+  {
+    "certificate": "C# advance",
+    "certifiedFrom": "SRk Technologies",
+    "year": 2011
+  },
+  {
+    "certificate": "AWS Beginner",
+    "certifiedFrom": "New Zealand",
+    "year": 2015
+  },
+  {
+    "certificate": "Python",
+    "certifiedFrom": "SRM Technologies",
+    "year": 2014
+  },
+  {
+    "certificate": "B.A",
+    "certifiedFrom": "VIT Technologies",
+    "year": 2007
+  }
+
+]
